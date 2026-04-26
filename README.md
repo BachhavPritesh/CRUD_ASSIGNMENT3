@@ -81,3 +81,7 @@ npm run dev      # development (nodemon)
 ```
 
 Paginated response includes `pagination` object with `total`, `page`, `limit`, `totalPages`, `hasNextPage`, `hasPrevPage`.
+
+## Postman Documentation
+
+https://documenter.getpostman.com/view/50839202/2sBXqGrMwG
