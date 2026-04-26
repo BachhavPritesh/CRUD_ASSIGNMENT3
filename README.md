@@ -2,6 +2,10 @@
 
 Backend notes API with CRUD, search, filter, sort, and pagination.
 
+## Deployed URL
+
+https://crud-assignment3-i1wq.onrender.com/api/notes
+
 ## Setup
 
 ```bash
